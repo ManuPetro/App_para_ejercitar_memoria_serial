@@ -1,4 +1,5 @@
-# My Music Collection
+# Aplicacion movil para ejercitar la memoria serial en niños con sindrome de down
+
 
 Ejemplo de backend en node js para el curso de programación web y bases de datos del programa de la Licenciatura en informatica y Medios
 
